@@ -1,1 +1,1 @@
-https://ttnerf.github.io/TT-GNeRF
+https://ttgnerf.github.io/TT-GNeRF

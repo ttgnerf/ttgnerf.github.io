@@ -1,1 +1,1 @@
-https://zhangqianhui.github.io/
+https://ttnerf.github.io/TT-GNeRF

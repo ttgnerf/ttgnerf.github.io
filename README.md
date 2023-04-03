@@ -1,2 +1,1 @@
-# ttgnerf.github.io
-TOG submission
+https://ttgnerf.github.io/TT-GNeRF
